@@ -13,6 +13,9 @@
 ## GitHub Streak
 ![Adei's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdeiTamayo)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## My website
 [Website](https://adei.eus)
 
