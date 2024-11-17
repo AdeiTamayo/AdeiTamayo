@@ -14,6 +14,15 @@
 ![Adei's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdeiTamayo)
 
 <!--START_SECTION:waka-->
+
+```rust
+From: 15 November 2024 - To: 16 November 2024
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ## My website
