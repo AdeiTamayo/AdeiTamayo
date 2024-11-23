@@ -16,15 +16,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 15 November 2024 - To: 21 November 2024
+From: 15 November 2024 - To: 22 November 2024
 
-Total Time: 8 hrs 3 mins
+Total Time: 9 hrs 21 mins
 
-XML               4 hrs 7 mins    >>>>>>>>>>>>>------------   50.48 %
-Java              1 hr 38 mins    >>>>>--------------------   20.17 %
-Python            1 hr 13 mins    >>>>---------------------   15.01 %
-HTML              56 mins         >>>----------------------   11.60 %
-Other             6 mins          -------------------------   01.28 %
+XML               4 hrs 44 mins   >>>>>>>>>>>>>------------   50.16 %
+Java              1 hr 40 mins    >>>>---------------------   17.65 %
+HTML              1 hr 34 mins    >>>>---------------------   16.57 %
+Python            1 hr 13 mins    >>>----------------------   12.95 %
+Other             6 mins          -------------------------   01.11 %
 ```
 
 <!--END_SECTION:waka-->
