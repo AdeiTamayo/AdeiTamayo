@@ -7,11 +7,9 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
-## GitHub Stats
-![Adei's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdeiTamayo&show_icons=true&hide_title=true&hide=prs)
 
 ## GitHub Streak
-![Adei's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdeiTamayo)
+![Adei's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdeiTamayo&hide_border=true)
 
 <!--START_SECTION:waka-->
 
