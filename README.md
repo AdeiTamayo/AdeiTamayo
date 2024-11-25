@@ -30,6 +30,6 @@ Other             6 mins          ▒░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ## My website
-[Website](https://adei.eus)
+[My Website](https://adei.eus)
 
 
