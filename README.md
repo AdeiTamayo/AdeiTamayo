@@ -14,19 +14,19 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 15 November 2024 - To: 25 November 2024
+From: 15 November 2024 - To: 26 November 2024
 
-Total Time: 14 hrs 9 mins
+Total Time: 15 hrs 3 mins
 
-XML               4 hrs 44 mins   ████████▒░░░░░░░░░░░░░░░░   33.24 %
-Python            4 hrs 15 mins   ███████▒░░░░░░░░░░░░░░░░░   29.80 %
-Java              1 hr 40 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.70 %
-HTML              1 hr 34 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.98 %
-EJS               43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
-Markdown          21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
-JavaScript        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
-Git Config        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-Other             6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+XML               4 hrs 44 mins   ███████▓░░░░░░░░░░░░░░░░░   31.19 %
+Python            4 hrs 18 mins   ███████░░░░░░░░░░░░░░░░░░   28.38 %
+Java              1 hr 40 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.98 %
+HTML              1 hr 34 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.31 %
+EJS               55 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
+JavaScript        33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
+Markdown          21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+Bash              13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+Other             8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
 ```
 
 <!--END_SECTION:waka-->
