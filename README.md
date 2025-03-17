@@ -14,19 +14,19 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 15 November 2024 - To: 15 March 2025
+From: 15 November 2024 - To: 16 March 2025
 
-Total Time: 91 hrs 43 mins
+Total Time: 95 hrs 3 mins
 
-JavaScript        26 hrs 27 mins  ███████░░░░░░░░░░░░░░░░░░   28.61 %
-EJS               17 hrs 48 mins  ████▓░░░░░░░░░░░░░░░░░░░░   19.27 %
-Python            10 hrs 29 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.34 %
-CSS               10 hrs 5 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
-XML               7 hrs 5 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 %
-HTML              5 hrs 22 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
-Java              4 hrs 17 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
-TypeScript        1 hr 25 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
-Markdown          1 hr 17 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+JavaScript        27 hrs 44 mins  ███████▒░░░░░░░░░░░░░░░░░   28.96 %
+EJS               17 hrs 48 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.60 %
+CSS               11 hrs 27 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.96 %
+Python            10 hrs 29 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.95 %
+XML               7 hrs 5 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
+HTML              5 hrs 22 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
+Java              4 hrs 17 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+TypeScript        1 hr 25 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+Markdown          1 hr 20 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
 ```
 
 <!--END_SECTION:waka-->
