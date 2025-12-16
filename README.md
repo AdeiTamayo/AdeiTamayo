@@ -6,11 +6,6 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-
-
-## GitHub Streak
-![Adei's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdeiTamayo&hide_border=true)
-
 <!--START_SECTION:waka-->
 
 ```rust
@@ -29,10 +24,5 @@ EJS                                17 hrs 48 mins  █▒░░░░░░░�
 Java                               14 hrs 38 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
 Other                              8 hrs 30 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
 ```
-
-<!--END_SECTION:waka-->
-
-## My website
-[My Website](https://adei.eus)
 
 
