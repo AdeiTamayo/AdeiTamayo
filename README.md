@@ -45,7 +45,6 @@
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
 |  **GrAL** | University thesis: Real-time workout tracking powered by pose estimation and computer vision. | `Python` `OpenCV` `AI` | [Repo](https://github.com/AdeiTamayo/GrAl_Tamayo_Adei) |
-|  **CrowdCounting** | End-to-end Machine Learning framework for automated density estimation. | `Python` `PyTorch` `ML` | [Repo](https://github.com/AdeiTamayo/CrowdCounting) |
 |  **Streaming Platform** | High-performance full-stack media streaming web application. | `React` `Express` `PostgreSQL` | [Repo](https://github.com/AdeiTamayo/StreamingPlatform) |
 
 ---
