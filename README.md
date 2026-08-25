@@ -1,5 +1,3 @@
-
-
 # 👋 Hi, I'm Adei
 
 <p align="left">
@@ -8,51 +6,29 @@
   </a>
 </p>
 
-**Computer Engineer** graduated from the **University of the Basque Country**.  
+Computer Engineer (UPV/EHU) — AI & Computer Vision · Backend & Cloud · Developer Tools & Automation
+
+<a href="https://www.linkedin.com/in/adei-tamayo-ugalde"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 
 ---
 
-## 🎯 Main Interests
+## 🛠️ Tech Stack
 
--  **AI Engineering & Computer Vision**
--  **Backend Development & Cloud Infrastructure**
--  **Developer Tools & Automation**
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Frontend & Backend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### Computer Vision & AI
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-### Cloud, DevOps & Databases
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack | Link |
+| Project | Description | Stack | Link |
 | :--- | :--- | :--- | :---: |
-|  **GrAL** | University thesis: Real-time workout tracking powered by pose estimation and computer vision. | `Python` `OpenCV` `AI` | [Repo](https://github.com/AdeiTamayo/GrAl_Tamayo_Adei) |
-|  **Streaming Platform** | High-performance full-stack media streaming web application. | `React` `Express` `PostgreSQL` | [Repo](https://github.com/AdeiTamayo/StreamingPlatform) |
-
----
-
-## 📫 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/adei-tamayo-ugalde" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+| **GrAL** | Real-time workout tracking via pose estimation & computer vision. | `Python` `OpenCV` `AI` | [Repo](https://github.com/AdeiTamayo/GrAl_Tamayo_Adei) |
+| **Streaming Platform** | High-performance full-stack media streaming web app. | `React` `Express` `PostgreSQL` | [Repo](https://github.com/AdeiTamayo/StreamingPlatform) |
+| **WallpopMCP** | Hybrid MCP server for Wallapop: search, chat, offers & favorites via HTTP, SSR & Playwright. | `TypeScript` `MCP` `Playwright` | [Repo](https://github.com/AdeiTamayo/WallpopMCP) |
