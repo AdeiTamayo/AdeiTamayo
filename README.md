@@ -30,5 +30,4 @@ Computer Engineer (UPV/EHU) — AI & Computer Vision · Backend & Cloud · Devel
 | Project | Description | Stack | Link |
 | :--- | :--- | :--- | :---: |
 | **GrAL** | Real-time workout tracking via pose estimation & computer vision. | `Python` `OpenCV` `AI` | [Repo](https://github.com/AdeiTamayo/GrAl_Tamayo_Adei) |
-| **Streaming Platform** | High-performance full-stack media streaming web app. | `React` `Express` `PostgreSQL` | [Repo](https://github.com/AdeiTamayo/StreamingPlatform) |
 | **WallpopMCP** | Hybrid MCP server for Wallapop: search, chat, offers & favorites via HTTP, SSR & Playwright. | `TypeScript` `MCP` `Playwright` | [Repo](https://github.com/AdeiTamayo/WallpopMCP) |
